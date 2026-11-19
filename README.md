@@ -39,5 +39,3 @@ Excel Workbook: India_Sales_Dashboard_Practice.xlsx
 
 Conclusion
 This project demonstrates the use of Microsoft Excel for analysing sales data, identifying business trends, and presenting meaningful insights through Pivot Tables, Pivot Charts, and a dashboard.
-google sheet
-https://docs.google.com/spreadsheets/d/e/2PACX-1vQz40EY_5ehwMrtBv2oRUr5cTivjdBy7ThGMO0FCpjt8X33lgFCUKkAPslHfSdYGsIURqkJ09Kl7NRO/pubhtml?gid=1504354798&single=true
